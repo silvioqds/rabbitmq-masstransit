@@ -1,6 +1,6 @@
 # Aplicação .NET Core 8 com RabbitMQ e MassTransit
 
-Este repositório contém um exemplo de aplicação simples, sem arquitetura nenhuma aplicada, desenvolvida em .NET Core 8, que utiliza RabbitMQ como broker de mensagens e MassTransit como biblioteca de mensagens.
+Este repositório contém um exemplo de aplicação simples, sem arquitetura nenhuma aplicada, desenvolvida em .NET Core 8, que utiliza RabbitMQ como broker de mensagens e MassTransit.
 O projeto demonstra como configurar e usar MassTransit para enviar e receber mensagens através do RabbitMQ, por padrão a exchange utilizada é do tipo fanout.
 
 ## Pré-requisitos
