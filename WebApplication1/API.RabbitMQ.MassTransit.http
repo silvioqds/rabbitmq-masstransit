@@ -1,0 +1,6 @@
+@API.RabbitMQ.MassTransit_HostAddress = http://localhost:5017
+
+GET {{API.RabbitMQ.MassTransit_HostAddress}}/rabbitmq-masstransit/
+Accept: application/json
+
+###
